@@ -1,5 +1,5 @@
-Mobile Robot learning to drill boreholes in a efficient way.
-The objective is similar to the TSP, however, is extended by the possibility to cluster coordinates.
+DRL Agent learning to collect points in a efficient way.
+The main objective is similar to the TSP, however, is extended by the possibility to cluster coordinates.
 
 Requirements:
 -tensorflow 1.14
